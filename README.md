@@ -2,10 +2,6 @@
 <!-- PROFILE HEADER                                                       -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<h1 align="center">
-  <img src="https://img.shields.io/badge/🤖%20Robotics-Algorithm-Engineer-DD00FF?style=for-the-badge&logo=robot&logoColor=00FFFF" alt="Title Badge" />
-</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2500&pause=600&color=00FFFF&center=true&vCenter=true&random=false&width=480&lines=Sim2Real+%26+Edge+AI|%E6%9C%BA%E5%99%A8%E4%BA%BA+Sim2Real+%E8%BE%85%E9%87%8C%E9%83%A8%E7%BD%B2" alt="Typing Animation" />
 </p>
@@ -35,10 +31,6 @@
 <img src="https://img.shields.io/github/followers/Yifan-Xie?style=for-the-badge&color=FF00FF&logo=github" />
 <img src="https://img.shields.io/github/stars/Yifan-Xie?style=for-the-badge&color=FF00FF&logo=github" />
 
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yifan-Xie&theme=midnight&title=Experience,Commits,PullRequest,Repos&no-frame=true&margin-w=15" />
 </div>
 
 ---
@@ -83,12 +75,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">📊 GITHUB STATS</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yifan-Xie&theme=midnight&show_icons=true&hide_border=true&count_private=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0a0a0f&ring_color=FF00FF" alt="Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yifan-Xie&theme=midnight&layout=compact&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0a0a0f" alt="Top Langs" height="180"/>
-</div>
-
 <h2 align="center">🔥 CONTRIBUTION</h2>
 
 <div align="center">
